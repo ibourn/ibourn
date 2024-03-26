@@ -1,0 +1,26 @@
+<svg width="1300" height="150" xmlns="http://www.w3.org/2000/svg" color="red">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml" style="font-size:35px; color:#4a90e2; font-family:Arial, sans-serif;">
+            <style>
+                @keyframes typing {
+                    0% { width: 0; }
+                    80% { width: 100%; }
+                    100% { width: 0; }
+                }
+                @keyframes blink-caret {
+                    0%, 100% { border-color: transparent; }
+                    50% { border-color: transparent rgba(16,23,127,0.521) transparent transparent; }
+                }
+                .typing {
+                    overflow: hidden;
+                    white-space: nowrap;
+                    border-right: .1em solid rgba(16,23,127,0.521);
+                    animation: typing 12s steps(60, end) infinite, blink-caret .75s step-end infinite;
+                }
+            </style>
+            <div class="typing" style="width: 30ch;">
+                "Be your own light. Keep learning, keep moving forward. And always be kind!"
+            </div>
+        </div>
+    </foreignObject>
+</svg>
