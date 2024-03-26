@@ -2,10 +2,9 @@
 <h1 align="center">Hello there, I'm Igor!👋</h1>
 <h3 align="center" style="font-style:italic;">A full stack blockchain developer</h3>
 
-<p align="center">
-<img width="80%" src="./inspirational-quote-animation.svg"></p>
+<p align="center"><img width="80%" src="./inspirational-quote-animation.svg"></p>
 
----
+##
 
 <img align="right" src="https://komarev.com/ghpvc/?username=ibourn" alt="ibourn" />
 
