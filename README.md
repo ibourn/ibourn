@@ -20,7 +20,7 @@
 
 ![](https://komarev.com/ghpvc/?username=ibourn)
 
-<img align="right" src="https://komarev.com/ghpvc/?username=ibourn&label=Profile views&color=0e75b6&style=flat" alt="ibourn" />
+<img align="right" src="https://komarev.com/ghpvc/?username=ibourn" alt="ibourn" />
 
 📍 Based In: France - Thriving in the global digital landscape.
 
