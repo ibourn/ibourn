@@ -5,14 +5,6 @@
 <p align="center">
 <img width="80%" src="./inspirational-quote-animation.svg"></p>
 
-<!--
-"The best way to predict the future is to invent it." - Alan Kay
-"Code is like humor. When you have to explain it, it’s bad." - Cory House
-"Simplicity is the ultimate sophistication." - Leonardo da Vinci
-"Think twice, code once." - Waseem Latif
-“Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.” — John Woods
--->
-
 ---
 
 <img align="right" src="https://komarev.com/ghpvc/?username=ibourn" alt="ibourn" />
