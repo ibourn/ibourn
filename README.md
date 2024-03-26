@@ -1,9 +1,6 @@
-## <!-- version 2 - 202403 -->
-
+<!-- version 2 - 202403 -->
 <h1 align="center">Hello there, I'm Igor!👋</h1>
 <h3 align="center" style="font-style:italic;">A full stack blockchain developer</h3>
-
-&nbsp;
 
 <p align="center">
 <img width="80%" src="./inspirational-quote-animation.svg"></p>
@@ -17,8 +14,6 @@
 -->
 
 ---
-
-![](https://komarev.com/ghpvc/?username=ibourn)
 
 <img align="right" src="https://komarev.com/ghpvc/?username=ibourn" alt="ibourn" />
 
