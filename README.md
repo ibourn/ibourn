@@ -129,7 +129,8 @@ Exploring other ecosystems like Tezos, believing in a future of interoperable mu
 Convinced that any specialization must be supported by a broad knowledge base, I immerse myself in fundamental languages such as Bash, while embracing technologies of the future like Rust, which I learn to master little by little in all its complexity.
 </summary>
 
-<table width="956px">
+<div style="width: 100%;">
+<table width="100%">
   <tr>
     <td align="left" width="50%"><b><a href="https://github.com/ibourn/rust-by-practice">Practice Rust with challenging exercises...</a></b></td>
     <td align="left" width="50%"><b><a href="https://github.com/ibourn/rusty_advent_of_code">Rusty advent of code</a></b></td>
@@ -142,6 +143,7 @@ Convinced that any specialization must be supported by a broad knowledge base, I
 
 </table>
 </details>
+<div>
 
 ## 🔍 What's Next?
 
