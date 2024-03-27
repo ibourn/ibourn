@@ -136,8 +136,8 @@ Convinced that any specialization must be supported by a broad knowledge base, I
   </tr>
 
   <tr>
-    <td align="left" width="50%"><b><a href="https://github.com/ibourn/bash_script_utilities">Bash scripts to make life easier</a></b></td>
-    <td align="left" width="50%"></td>
+    <td><b><a href="https://github.com/ibourn/bash_script_utilities">Bash scripts to make life easier</a></b></td>
+    <td></td>
   </tr>
 
 </table>
