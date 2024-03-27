@@ -64,11 +64,11 @@ Believing in the power of sharing knowledge, after initially engaging in the pro
 
 <table width="100%">
   <tr>
-    <td align="left" width="50%">🇬🇧 <b><a href="https://medium.com/@franck.maussand/optimization-on-ethereum-make-a-difference-with-function-names-9cc4a963424b">Optimization on Ethereum: Make a Dif ...<i><sup>reviewer</sup></a></b></td>
-    <td align="left" width="50%">🇬🇧 <b><a href="https://medium.com/@franck.maussand/solana-ethereum-function-visibility-41a293fe7078">Solana / Ethereum: Function Visibility <i><sup>reviewer</sup></a></b></td>
+    <td align="left" width="50%">🇬🇧 <b><a href="https://medium.com/@franck.maussand/optimization-on-ethereum-make-a-difference-with-function-names-9cc4a963424b">Optimization on Ethereum: Make a Dif ...</a></b><i><sup>reviewer</sup></i></td>
+    <td align="left" width="50%">🇬🇧 <b><a href="https://medium.com/@franck.maussand/solana-ethereum-function-visibility-41a293fe7078">Solana / Ethereum: Function Visibility </a></b><i><sup>reviewer</sup></i></td>
   </tr>
   <tr>
-    <td>🇫🇷 <b><a href="https://github.com/Laugharne/pow_pos_poh/tree/main/fr">PoW, PoS, PoH : Guide des consensus <i><sup>reviewer</sup></i></a></b>
+    <td>🇫🇷 <b><a href="https://github.com/Laugharne/pow_pos_poh/tree/main/fr">PoW, PoS, PoH : Guide des consensus </a></b><i><sup>reviewer</sup></i>
     </td>
     <td>
     </td>
@@ -200,7 +200,7 @@ My Tech Palette -->
 
 &nbsp;
 
-## 📜 Certificates
+## 🎓 Certificates
 
 <details open>
 <summary>
