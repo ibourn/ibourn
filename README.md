@@ -112,14 +112,17 @@ Focused on Ethereum and EVM-compatible blockchains, I am currently honing my ski
 Exploring other ecosystems like Tezos, believing in a future of interoperable multichain technologies.
 </summary>
 
-<table width="100%">
+<i>coming soon...</i>
+
+<!-- <table width="100%">
   <tr>
     <td align="center"><i>coming soon...</i></td>
-    <!-- <td align="center" width="50%"><i>coming soon...</i></td> -->
-    <!-- <td align="left" width="50%"</td> -->
+    <td align="center" width="50%"><i>coming soon...</i></td>
+    <td align="left" width="50%"</td>
   </tr>
 
-</table>
+</table> -->
+
 </details>
 
 ### 🏛️ Broad Foundations:
@@ -129,7 +132,7 @@ Exploring other ecosystems like Tezos, believing in a future of interoperable mu
 Convinced that any specialization must be supported by a broad knowledge base, I immerse myself in fundamental languages such as Bash, while embracing technologies of the future like Rust, which I learn to master little by little in all its complexity.
 </summary>
 
-<table width="100%">
+<table width="950px">
   <tr width="100%">
     <td align="left" width="50%"><b><a href="https://github.com/ibourn/rust-by-practice">Practice Rust with challenging exercises ...</a></b></td>
     <td align="left" width="50%"><b><a href="https://github.com/ibourn/rusty_advent_of_code">Rusty advent of code</a></b></td>
