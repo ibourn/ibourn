@@ -131,12 +131,12 @@ Convinced that any specialization must be supported by a broad knowledge base, I
 
 <table width="100%">
   <tr width="100%">
-    <td align="left" width="50%"><b><a href="https://github.com/ibourn/rust-by-practice">Practice Rust with challenging exercises...</a></b></td>
+    <td align="left" width="50%"><b><a href="https://github.com/ibourn/rust-by-practice">Practice Rust with challenging exercises ...</a></b></td>
     <td align="left" width="50%"><b><a href="https://github.com/ibourn/rusty_advent_of_code">Rusty advent of code</a></b></td>
   </tr>
 
   <tr>
-    <td><b><a href="https://github.com/ibourn/bash_script_utilities">Bash scripts to make life easier</a></b></td>
+    <td><b><a href="https://github.com/ibourn/bash_script_utilities">Bash scripts to make life easier</a></b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td></td>
   </tr>
 
