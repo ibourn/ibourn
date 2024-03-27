@@ -139,11 +139,12 @@ Convinced that any specialization must be supported by a broad knowledge base, I
   </tr>
 
   <tr>
-    <td><b><a href="https://github.com/ibourn/bash_script_utilities">Bash scripts to make life easier</a></b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-    <td></td>
+    <td><b><a href="https://github.com/ibourn/bash_script_utilities">Bash scripts to make life easier</a></b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
   </tr>
 
 </table>
+
 </details>
 
 ## 🔍 What's Next?
