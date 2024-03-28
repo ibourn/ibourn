@@ -1,7 +1,7 @@
 <!-- version 2 - 202403 -->
 <p align="center"><img width="100%" src="./header-animation.svg"></p>
 <h1 align="center">Hello there, I'm Igor!👋</h1>
-<h3 align="center" style="font-style:italic;">full stack blockchain developer</h3>
+<h3 align="center"><i>full stack blockchain developer</i></h3>
 
 <!-- <p align="center"><img width="80%" src="./inspirational-quote-animation.svg"></p> -->
 <!--
@@ -208,7 +208,7 @@ My Tech Palette -->
 
 &nbsp;
 
-## 🎓 Certificates
+## Certificates 🎓
 
 <details open>
   <summary>
@@ -305,7 +305,7 @@ French Blockchain Certification:
   </table>
 </details>
 
-## 📈 Code Chronicles
+## Code Chronicles 📈
 
 <!-- Github stats -->
 
