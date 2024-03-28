@@ -17,11 +17,11 @@
 
 📍 Based In: France - Thriving in the global digital landscape.
 
-🤝 Let's Collaborate: Eager to contribute to Web3 projects or assist others to learn and progress.
+🤝 Let's Collaborate: Eager to contribute to Web3 projects or assist others.
 
-🔭 Open to work: Passionate about crafting a better future through Web3, I'm seeking exciting blockchain ventures.
+🔭 Open to work: Seeking exciting blockchain ventures.
 
-💬 Ask me about Solidity, Foundry, Optimization.
+💬 Ask me about: Solidity, Foundry, Optimization.
 
 📩 Reach Out: To discuss blockchain opportunities or collaboration, shoot me an email at craftadapp@proton.me.
 
@@ -43,8 +43,8 @@
 🌐 **My Blockchain Journey:**
 
 - **Initial Spark:** Interest in blockchain technology ignited in 2017. Then the first lockdown was a turning point, discovering Web3 development with Ivan on Tech (now Moralis.io).
-- **Taking the Leap:** Decided in 2023 to pursue my passion for coding, problem-solving, and continuous learning in the blockchain space, I enrolled in the Alyra blockchain developer program to build a strong foundation.
-- **Currently**, I'm deepening my knowledge in blockchain technologies, participating in hackathons, online courses, and CTFs, and constantly exploring new ideas.
+- **Taking the Leap:** In 2023, I decided to pursue my passion for coding problem-solving and Web3 by enrolling in the Alyra blockchain developer program to build a strong foundation.
+- **Currently**, I'm deepening my knowledge in Foundry and exploring various aspects of Web3 through hackathons, online courses, and CTFs.
 
 ☕ **Fueled** by an insatiable curiosity and a desire to build, with skills for teamwork and supporting others.
 
@@ -132,7 +132,7 @@ Exploring other ecosystems like Tezos, believing in a future of interoperable mu
 
 <details open>
 <summary>
-Convinced that any specialization must be supported by a broad knowledge base, I immerse myself in fundamental languages such as Bash, while embracing technologies of the future like Rust, which I learn to master little by little in all its complexity.
+Convinced that specialization requires a broad knowledge base, I remain curious about other technologies and domains. Thus, I am now gradually taming Rust's complexities.
 </summary>
 
 <table>
@@ -211,23 +211,23 @@ My Tech Palette -->
 ## 🎓 Certificates
 
 <details open>
-<summary>
+  <summary>
 French Blockchain Certification:
 
 [From Alyra, The Blockchain School](https://www.alyra.fr/)
 
-</summary>
+  </summary>
 
 [<img align="right" alt="Alyra badge" width="140" src="./docs/alyraBadge.svg">](https://certificate.bcdiploma.com/check/39D92591B8B02A464B29C4265BFAAFBFCEA7883C509B7900DAA1628381D01B73ODRKczZtaFlMZXVkdFhHRWJuRVpuT1I2bDJtQjUxVEtvYS8xRzgxbnJCWk5iUGoz)
 
 </details>
 
 <details>
-<summary>Updraft Challenge NFTs:
+  <summary>Updraft Challenge NFTs:
 
 [From Cyfrin-Updraft: Full Solidity & Foundry Courses](https://updraft.cyfrin.io/)
 
-</summary>
+  </summary>
 
 [<img width="100" src="https://raw.seadn.io/files/f1016e74d3fd920b35eafe34a5ca6af0.png">](https://testnets.opensea.io/assets/sepolia/0x76b50696b8effca6ee6da7f6471110f334536321/2313)
 [<img width="100" src="https://raw.seadn.io/files/ac1ca2c44f1f75484cabad08259588a2.png">](https://testnets.opensea.io/assets/sepolia/0x76b50696b8effca6ee6da7f6471110f334536321/2314)
@@ -248,21 +248,32 @@ French Blockchain Certification:
 </details>
 
 <details>
-<summary>Moralis Certificates:
+  <summary>Moralis Certificates:
 
 [From Moralis Academy](https://academy.moralis.io/all-courses)
 
-</summary>
+  </summary>
 
-#### Bitcoin:
-
-- [Blockchain Bitcoin 101](./docs/ibourn_Blockchain-amp-Bitcoin-101-v3-Moralis-Academy.pdf)
-- [Bitcoin Attacks & Vulnerabilities](./docs/ibourn_Bitcoin-Attacks-v3-Moralis-Academy.pdf)
+  <table>
+  <tr>
+  <td>
 
 #### Blockchain Game Development:
 
 - [Unity Blockchain Game Development](./docs/ibourn_Unity-Blockchain-Game-Development-101-v3-Moralis-Academy.pdf)
 - [Enjin Blockchain Development 101](./docs/ibourn_Enjin-Blockchain-Development-101-v3-Moralis-Academy.pdf)
+  </td>
+  <td>
+
+#### Bitcoin:
+
+- [Blockchain Bitcoin 101](./docs/ibourn_Blockchain-amp-Bitcoin-101-v3-Moralis-Academy.pdf)
+- [Bitcoin Attacks & Vulnerabilities](./docs/ibourn_Bitcoin-Attacks-v3-Moralis-Academy.pdf)
+  </td>
+  </tr>
+
+  <tr>
+  <td>
 
 #### Ethereum:
 
@@ -270,16 +281,28 @@ French Blockchain Certification:
 - [Ethereum Smart Contract Programming 1101](./docs/ibourn_Ethereum-Smart-Contract-Programming-101-v3-Moralis-Academy.pdf)
 - [Ethereum Game Programming](./docs/ibourn_Ethereum-Game-Programming-v3-Moralis-Academy.pdf)
 - [Ethereum Smart Contract Security](./docs/ibourn_Ethereum-Smart-Contract-Security-v3-Moralis-Academy.pdf)
-
-#### React:
-
-- [React Web Development](./docs/ibourn_React-Web-Development.pdf)
+  </td>
+  <td>
 
 #### Miscellaneous:
 
 - [C++ Programming for Blockchain Developers](./docs/ibourn_C_Programming-for-Blockchain-Developers-v3-Moralis-Academy.pdf)
 - [Algorithmic Trading](./docs/ibourn_Algorithmic-Trading-Technical-Analysis-v3-Moralis-Academy.pdf)
 - [Blockchain Business Masterclass](./docs/ibourn_Blockchain-Business-Masterclass-v3-Moralis-Academy.pdf)
+  </td>
+  </tr>
+
+  <tr>
+  <td>
+
+#### React:
+
+- [React Web Development](./docs/ibourn_React-Web-Development.pdf)
+  </td>
+  <td>
+  </td>
+  </tr>
+  </table>
 </details>
 
 ## 📈 Code Chronicles
