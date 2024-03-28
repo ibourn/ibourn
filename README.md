@@ -1,11 +1,11 @@
 <!-- version 2 - 202403 -->
+<p align="center"><img width="100%" src="./header-text.png"></p>
 <h1 align="center">Hello there, I'm Igor!👋</h1>
-<h3 align="center" style="font-style:italic;">A full stack blockchain developer</h3>
+<h3 align="center" style="font-style:italic;">full stack blockchain developer</h3>
 
-<p align="center"><img width="80%" src="./inspirational-quote-animation.svg"></p>
+<!-- <p align="center"><img width="80%" src="./inspirational-quote-animation.svg"></p> -->
 <!--
 "The best way to predict the future is to invent it." - Alan Kay
-"Code is like humor. When you have to explain it, it’s bad." - Cory House
 "Simplicity is the ultimate sophistication." - Leonardo da Vinci
 "Think twice, code once." - Waseem Latif
 “Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.” — John Woods
@@ -21,10 +21,6 @@
 
 🔭 Open to work: Passionate about crafting a better future through Web3, I'm seeking exciting blockchain ventures.
 
-☕ Fueled by an insatiable curiosity and a strong desire to build, with skills for teamwork and supporting others.
-
-📘 Currently Learning: Sharpening my skills with Foundry; also, embracing and taming the complexities of Rust.
-
 💬 Ask me about Solidity, Foundry, Optimization.
 
 📩 Reach Out: To discuss blockchain opportunities or collaboration, shoot me an email at craftadapp@proton.me.
@@ -32,42 +28,45 @@
 🔗 Connect with me:
 
 <p align="center">
-<a href="https://linkedin.com/in/igor-bournazel" target="blank"><img src="https://img.shields.io/badge/-igor--bournazel-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="igor-bournazel" /></a>
-<a href="https://medium.com/@igorbournazel" target="blank"><img src="https://img.shields.io/badge/@ibourn-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="@igorbournazel" /></a>
-<a href="https://twitter.com/ibourn_w3" target="blank"><img src="https://img.shields.io/twitter/follow/ibourn_w3?logo=twitter&style=for-the-badge" alt="ibourn" /></a>
-<a href="https://dev.to/ibourn" target="blank"><img src="https://img.shields.io/badge/@ibourn-12100E?style=for-the-badge&logo=dev.to&logoColor=white" alt="@ibourn" /></a>
+<a href="https://linkedin.com/in/igor-bournazel" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="igor-bournazel" /></a>
+<a href="https://medium.com/@igorbournazel" target="blank"><img src="https://img.shields.io/badge/MEDIUM-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="@igorbournazel" /></a>
+<a href="https://twitter.com/ibourn_w3" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="ibourn" /></a>
+<a href="https://dev.to/ibourn" target="blank"><img src="https://img.shields.io/badge/DEV.TO-12100E?style=for-the-badge&logo=dev.to&logoColor=white" alt="@ibourn" /></a>
 </p>
 
-## 🚀 About Me
+## About Me 🚀
 
 ✈️ **Background:** Former aspiring airline pilot with full aviation training and instructor’s license.
 
 🍽️ **Experience:** Spent 20 years serving in prestigious cafes and restaurants, blending passion with professionalism.
 
-🌐 **My Blockchain Odyssey:**
+🌐 **My Blockchain Journey:**
 
-- 💻 **Rain Check:** Always curious about programming, I tried a first approach with the CNAM in 2013, while working.
-- 🧩 **Initial Spark:** Interest in blockchain technology ignited in 2017. Then the first lockdown was a turning point, discovering Web3 development with Ivan on Tech (now Moralis.io) and a super mentor.
-- 🚀 **Taking the Leap:** Decided in 2023 to pursue my passion for coding, problem-solving, and continuous learning in the blockchain space. So I enrolled in the Alyra blockchain developer program in 2023 to build a strong foundation.
-- 📚 **Current Endeavors:** Currently, I'm deepening my knowledge in blockchain technologies, participating in hackathons, online courses, and CTFs, and constantly exploring new ideas.
+- **Initial Spark:** Interest in blockchain technology ignited in 2017. Then the first lockdown was a turning point, discovering Web3 development with Ivan on Tech (now Moralis.io).
+- **Taking the Leap:** Decided in 2023 to pursue my passion for coding, problem-solving, and continuous learning in the blockchain space, I enrolled in the Alyra blockchain developer program to build a strong foundation.
+- **Currently**, I'm deepening my knowledge in blockchain technologies, participating in hackathons, online courses, and CTFs, and constantly exploring new ideas.
 
-## 🎯 Activities and Interests
+☕ **Fueled** by an insatiable curiosity and a desire to build, with skills for teamwork and supporting others.
+
+## Activities and Interests 🎯
 
 <!-- My Focus Areas  -->
 
 ### ✍️ Blog posts & contributions
 
-<details>
+<details open>
 <summary>
-Believing in the power of sharing knowledge, after initially engaging in the process through reviewing content, I was inspired to take a step further by writing articles myself, aiming to solidify my understanding and share what I've learned.
+Believing in the power of sharing knowledge, I moved from reviewing to writing articles to deepen and share my learning.
 </summary>
 
-<table width="100%">
+<table>
+
   <tr>
-    <td align="left" width="50%">🇬🇧 <b><a href="https://medium.com/@franck.maussand/optimization-on-ethereum-make-a-difference-with-function-names-9cc4a963424b">Optimization on Ethereum: Make a Diff...</a></b><i><sup>*</sup></i></td>
-    <td align="left" width="50%">🇬🇧 <b><a href="https://medium.com/@franck.maussand/solana-ethereum-function-visibility-41a293fe7078">Solana / Ethereum: Function Visibility </a></b><i><sup>*</sup></i>
+    <td align="left">🇬🇧 <b><a href="https://medium.com/@franck.maussand/optimization-on-ethereum-make-a-difference-with-function-names-9cc4a963424b">Optimization on Ethereum: Make a Difference with...</a></b><i><sup>*</sup></i></td>
+    <td align="left">🇬🇧 <b><a href="https://medium.com/@franck.maussand/solana-ethereum-function-visibility-41a293fe7078">Solana / Ethereum: Function Visibility </a></b><i><sup>*</sup></i>
     </td>
   </tr>
+
   <tr>
     <td>🇫🇷 <b><a href="https://github.com/Laugharne/pow_pos_poh/tree/main/fr">PoW, PoS, PoH : Guide des consensus </a></b><i><sup>*</sup></i>
     </td>
@@ -76,14 +75,16 @@ Believing in the power of sharing knowledge, after initially engaging in the pro
   </tr>
 
 </table>
-<i><sup>* : reviewer</sup></i>
+
+<i><sup>\* : reviewer</sup></i>
+
 </details>
 
 ### 🔄 Ethereum & EVM:
 
-<details>
+<details open>
 <summary>
-Focused on Ethereum and EVM-compatible blockchains, I am currently honing my skills with Foundry, diving deeper into security and optimization aspects of blockchain development. I believe that mastering these two foundations is essential for the adoption of this technology.
+Specializing in Ethereum and EVM compatible blockchains, I am improving my foundry skills, with a focus on security and optimization that I believe are essential for technology adoption.
 </summary>
 
 <table width="100%">
@@ -129,7 +130,7 @@ Exploring other ecosystems like Tezos, believing in a future of interoperable mu
 
 ### 🏛️ Broad Foundations:
 
-<details>
+<details open>
 <summary>
 Convinced that any specialization must be supported by a broad knowledge base, I immerse myself in fundamental languages such as Bash, while embracing technologies of the future like Rust, which I learn to master little by little in all its complexity.
 </summary>
@@ -150,7 +151,7 @@ Convinced that any specialization must be supported by a broad knowledge base, I
 
 </details>
 
-## 🔍 What's Next?
+## What's Next? 🔍
 
 🕵️ Emerging Technologies: Eager to explore Zero-Knowledge Proofs (ZKP) and Account Abstraction as my next top priorities.
 
@@ -158,7 +159,7 @@ Convinced that any specialization must be supported by a broad knowledge base, I
 
 🛡️ Security & Optimization: In the longer term, dedicating more time to learning about security and optimization on EVM.
 
-## 🛠️ My Tech Palette
+## My Tech Palette 🛠️
 
 <!-- 🖥️ Technologies & Tools I Have Used and Learned
 Digital Craftsmanship
