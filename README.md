@@ -110,21 +110,18 @@ Specializing in Ethereum and EVM compatible blockchains, I am improving my found
 
 ### 🌍 Beyond EVM:
 
-<details>
+<details open>
 <summary>
-Exploring other ecosystems like Tezos, believing in a future of interoperable multichain technologies.
+Exploring other ecosystems like Tezos or Allfeat believing in a future of interoperable multichain technologies.
 </summary>
 
-<i align="center">coming soon...</i>
-
-<!-- <table width="100%">
+<table>
   <tr>
-    <td align="center"><i>coming soon...</i></td>
-    <td align="center" width="50%"><i>coming soon...</i></td>
-    <td align="left" width="50%"</td>
+    <td align="center"><b><a href="https://github.com/AlyraButerin/allfeat-funding">Allfeat (Substrate-based) Hackathon: a music-focused crowdfunding project.</a></b></td>
+    <!-- <td align="center">coming soon... </td> -->
   </tr>
 
-</table> -->
+</table>
 
 </details>
 
