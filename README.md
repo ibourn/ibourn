@@ -306,6 +306,6 @@ French Blockchain Certification:
 
 <!-- Github stats -->
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibourn&show_icons=true&locale=en&langs_count=10&layout=compact&theme=transparent&hide_border=false" alt="ibourn" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibourn&include_orgs=true&show_icons=true&locale=en&langs_count=10&layout=compact&theme=transparent&hide_border=false" alt="ibourn" />
 &nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ibourn&show_icons=true&locale=en&rank_icon=github&theme=transparent&hide_border=false&hide=issues&show=prs_merged_percentage" alt="ibourn" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ibourn&include_orgs=true&show_icons=true&locale=en&rank_icon=github&theme=transparent&hide_border=false&hide=issues&show=prs_merged_percentage" alt="ibourn" />
